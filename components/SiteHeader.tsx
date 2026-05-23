@@ -18,7 +18,7 @@ export function SiteHeader() {
       <Container size="lg" py="sm">
         <Group justify="space-between" wrap="nowrap">
           <Text fw={700} size="lg" c="sage.6">
-            637 Somerset
+            637 Somerset Lodge
           </Text>
 
           <Group component="nav" gap="md" visibleFrom="sm">

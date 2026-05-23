@@ -1,10 +1,10 @@
 export const SEO = {
-  title: '637 Somerset Dr | Golden, CO',
+  title: '637 Somerset Dr | The Dam Finest Lodge in Golden, CO',
   description:
-    'Beautifully maintained 4-bed, 3-bath home at the base of the foothills in Golden, Colorado. Mountain views, updated kitchen, and minutes from downtown Golden.',
-  ogTitle: '637 Somerset Dr — Golden, CO',
+    'The dam finest 4-den, 3-watering-hole lodge at the base of the foothills in Golden, Colorado. Mountain views, updated kitchen, and prime beaver territory minutes from downtown Golden.',
+  ogTitle: '637 Somerset Dr — The Dam Finest Lodge in Golden, CO',
   ogDescription:
-    'Your foothills retreat in Golden. 4 beds, 3 baths, mountain views, and easy access to trails and downtown.',
+    'Your foothills lodge in Golden. 4 dens, 3 watering holes, mountain views, and enough territory to make any beaver jealous.',
 } as const;
 
 export type SeoData = typeof SEO;

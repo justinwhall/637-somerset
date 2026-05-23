@@ -29,25 +29,25 @@ export const LISTING = {
   },
 
   features: [
-    { icon: 'mountain', label: 'Mountain views' },
-    { icon: 'car', label: 'Two-car garage' },
-    { icon: 'flame', label: 'Gas fireplace' },
-    { icon: 'tree', label: 'Mature landscaping' },
-    { icon: 'sun', label: 'Sun-drenched deck' },
-    { icon: 'chef-hat', label: 'Updated kitchen' },
-    { icon: 'bath', label: 'Spa-like primary bath' },
-    { icon: 'ruler', label: 'Open floor plan' },
+    { icon: 'mountain', label: 'Mountain views (tail-slapping good)' },
+    { icon: 'car', label: 'Two-log garage' },
+    { icon: 'flame', label: 'Gas fireplace (for drying your fur)' },
+    { icon: 'tree', label: 'Mature trees (snack-ready)' },
+    { icon: 'sun', label: 'Sun-drenched deck (for basking)' },
+    { icon: 'chef-hat', label: 'Updated kitchen (bark not included)' },
+    { icon: 'bath', label: 'Spa-like soaking pond' },
+    { icon: 'ruler', label: 'Open floor plan (room to waddle)' },
   ],
 
   details: [
     { label: 'MLS #', value: 'TBD' },
     { label: 'HOA', value: 'TBD' },
     { label: 'Property taxes', value: 'TBD' },
-    { label: 'Heating', value: 'Forced air' },
-    { label: 'Cooling', value: 'Central A/C' },
-    { label: 'Parking', value: '2-car attached garage' },
-    { label: 'Lot size', value: '0.25 acres' },
-    { label: 'Year built', value: '1998' },
+    { label: 'Heating', value: 'Forced air (warm as a beaver pelt)' },
+    { label: 'Cooling', value: 'Central A/C (creek-breeze equivalent)' },
+    { label: 'Parking', value: '2-log attached garage' },
+    { label: 'Lot size', value: '0.25 acres of prime territory' },
+    { label: 'Year built', value: '1998 (a fine vintage dam)' },
   ],
 } as const;
 
