@@ -1,10 +1,14 @@
 export const SEO = {
-  title: '637 Somerset Dr | The Dam Finest Lodge in Golden, CO',
+  title: '637 Somerset Dr, Golden CO 80401 | Home for Sale',
   description:
-    'The dam finest 4-den, 3-watering-hole lodge at the base of the foothills in Golden, Colorado. Mountain views, updated kitchen, and prime beaver territory minutes from downtown Golden.',
-  ogTitle: '637 Somerset Dr — The Dam Finest Lodge in Golden, CO',
+    '4-bedroom, 3-bathroom home for sale at 637 Somerset Dr, Golden, Colorado 80401. 2,400 sq ft on 0.25 acres with mountain views, updated kitchen, gas fireplace, and sun-drenched deck. Minutes from downtown Golden, trails, and I-70. Schedule a showing today.',
+  ogTitle: '637 Somerset Dr — Home for Sale in Golden, CO',
   ogDescription:
-    'Your foothills lodge in Golden. 4 dens, 3 watering holes, mountain views, and enough territory to make any beaver jealous.',
+    '4 bed, 3 bath home for sale in Golden, CO. 2,400 sq ft, mountain views, updated kitchen, near downtown Golden and foothills trails.',
+  keywords:
+    '637 Somerset Dr, Golden CO, home for sale, house for sale, Golden Colorado real estate, 80401, 4 bedroom, 3 bathroom, mountain views, foothills, Jefferson County, Somerset Drive Golden',
+  locale: 'en_US',
+  siteName: '637 Somerset Dr — Golden, CO',
 } as const;
 
 export type SeoData = typeof SEO;

@@ -11,10 +11,10 @@ export function Hero() {
       <Box style={{ backgroundColor: 'var(--color-snow)' }} py="xl">
         <Container size="lg">
           <Title order={1} size="2.5rem" c="slate.6" mb="xs">
-            {street}
+            {COPY.hero.heading}
           </Title>
-          <Text size="xl" c="dimmed" mb="xs">
-            {city}, {state} {zip}
+          <Text size="xl" c="slate.6" fw={600} mb="xs">
+            {street}, {city}, {state} {zip}
           </Text>
           <Text size="lg" c="sandstone.6" fw={500} mb="lg">
             {COPY.hero.tagline}

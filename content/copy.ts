@@ -1,5 +1,6 @@
 export const COPY = {
   hero: {
+    heading: 'Home for Sale in Golden, CO',
     tagline: 'The dam finest lodge in Golden',
     cta: 'Gnaw on this — schedule a showing',
   },
