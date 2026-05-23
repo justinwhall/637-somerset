@@ -33,8 +33,8 @@ export const LISTING = {
 
   contact: {
     name: 'Listing Agent',
-    email: 'agent@example.com',
-    phone: '(303) 555-0100',
+    email: 'jwindhall+somerset@gmail.com',
+    phone: '720-360-7878',
   },
 
   features: [

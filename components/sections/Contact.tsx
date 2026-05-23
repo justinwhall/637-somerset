@@ -24,8 +24,11 @@ export function Contact() {
           <Text size="md" c="dimmed" mb="xs">
             {COPY.contact.subtitle}
           </Text>
+          <Text size="lg" fw={600} mb="xs">
+            phone &bull; {contact.phone}
+          </Text>
           <Text size="lg" fw={600} mb="lg">
-            {contact.name} &middot; {contact.phone}
+            {contact.email}
           </Text>
 
           <Group justify="center" gap="md">
