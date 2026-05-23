@@ -1,0 +1,19 @@
+:root {
+  --color-cream: #f7f5f0;
+  --color-snow: #ffffff;
+  --color-slate: #3d4f5f;
+  --color-sandstone: #c4a77d;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-slate);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 70px;
+}
